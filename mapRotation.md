@@ -1,5 +1,5 @@
 # MAP ROTATION
-## Default Maps
+## Default Maps:
 MapRotation=(MapId="bridge", GameMode="TDM")
 
 MapRotation=(MapId="datacenter", GameMode="TDM")
@@ -22,10 +22,10 @@ MapRotation=(MapId="UGC2224595475", GameMode="TDM")
 ### Dome Clown Infection
 MapRotation=(MapId="UGC2348495342", GameMode="TDM")
 
-### PavZ
+## PavZ:
 MapRotation=(MapId="UGC2456742088", GameMode="TDM")
 
-### Escape from Pavlov
+## Escape from Pavlov:
 MapRotation=(MapId="UGC2914352647", GameMode="TDM")
 
 ## CodZ:
