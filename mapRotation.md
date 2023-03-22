@@ -1,19 +1,12 @@
 # MAP ROTATION
 ## Default Maps:
-MapRotation=(MapId="bridge", GameMode="TDM")
-
-MapRotation=(MapId="datacenter", GameMode="TDM")
-
-MapRotation=(MapId="sand", GameMode="TDM")
-
-MapRotation=(MapId="santorini", GameMode="TDM")
-
-MapRotation=(MapId="siberia", GameMode="TDM")
-
-MapRotation=(MapId="stalingrad", GameMode="TDM")
-
-MapRotation=(MapId="station", GameMode="TDM")
-
+MapRotation=(MapId="bridge", GameMode="TDM") \
+MapRotation=(MapId="datacenter", GameMode="TDM") \
+MapRotation=(MapId="sand", GameMode="TDM") \
+MapRotation=(MapId="santorini", GameMode="TDM") \
+MapRotation=(MapId="siberia", GameMode="TDM") \
+MapRotation=(MapId="stalingrad", GameMode="TDM") \
+MapRotation=(MapId="station", GameMode="TDM") \
 MapRotation=(MapId="industrial", GameMode="TDM")
 
 ## Clown Infection:
