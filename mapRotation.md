@@ -21,6 +21,9 @@ MapRotation=(MapId="UGC2456742088", GameMode="TDM")
 ## Escape from Pavlov:
 MapRotation=(MapId="UGC2914352647", GameMode="TDM")
 
+## Star Wars Zombie
+MapRotation=(MapId="UGC2401676625", GameMode="ZWV")
+
 ## CodZ:
 ### Kino Der Toten Update 3.0
 MapRotation=(MapId="UGC2321763467", GameMode="ZWV")
